@@ -4,7 +4,7 @@
 | Step | √ | Requirement |
 | :---: | :---: | :--- 
 | 01 | √ | Website has 7 pages
-| 02 |  | website must be deployed to GitHub pages.
+| 02 | √ | website must be deployed to GitHub pages.
 | 03 | √ | Every page has nav menu - Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
 | 04 | √ | Every page has nav menu - Contains a dropdown on the right of the navbar named "Plots" which provides links to each individual visualization page.
 | 05 | √ | Every page has nav menu - Provides two more links on the right: "Comparisons" which links to the comparisons page, and "Data" which links to the data page.
@@ -27,7 +27,7 @@
 | :---: | :---: | :--- 
 | 01 | √ | You may use the weather data or choose another dataset. Alternatively, you may use the included cities dataset and pull the images from the assets folder
 | 02 | √ | You must use bootstrap, including navbar on every page, tables, and responsive grids
-| 03 |  | You must produce a live, publicly accessible URL as a result. 
+| 03 | √ | You must produce a live, publicly accessible URL as a result. 
 | 04 | √ | use a CSS media query for the navigation menu
 | 05 | √ | website works at all window widths/sizes.
 | 06 | √ | Feel free to take some liberty in the visual aspects, but keep the core functionality the same.
